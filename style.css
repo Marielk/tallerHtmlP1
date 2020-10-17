@@ -1,0 +1,26 @@
+header{
+  background-image: url('./assets/images/perrito_1.png');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position-y: center;
+}
+
+h1{
+  font-family: 'Zilla Slab', serif;
+  color: #F0F1F7
+}
+
+button{
+  width: 150px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  font-family: 'Zilla Slab', serif;
+  font-weight: 300;
+}
+
+#boton1{
+  background-color: #F0F1F7;
+  color: #545871;
+}
